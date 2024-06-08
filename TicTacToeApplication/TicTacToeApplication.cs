@@ -113,7 +113,7 @@ namespace TicTacToeApplication
                     CreateNewGame();
                     return true;
                 case "?":
-                    MessageBox.Show("It's a draw","DRAW",);
+                    MessageBox.Show("It's a draw","DRAW");
                     CreateNewGame();
                     return true;
                 default:
