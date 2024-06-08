@@ -6,5 +6,5 @@ Computer will use X<br>
 Compiled with visual studio 2022
 with .net core 8.0 installed<br>
 <br>
-<B>Application</B>
-![alt text](https://github.com/BjornGranbom/TicTacToe/Images/TicTacToe.PNG?raw=true)
+<B>Application</B><br>
+![Screenshot](https://github.com/BjornGranbom/TicTacToe/Images/TicTacToe.PNG?raw=true)
